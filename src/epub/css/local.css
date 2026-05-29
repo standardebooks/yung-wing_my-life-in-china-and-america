@@ -49,7 +49,6 @@ section[epub|type~="dedication"] > *{
 div header{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
 }
 
 footer{
@@ -58,7 +57,6 @@ footer{
 }
 
 blockquote[xml|lang~="zh"]{
-	font-size: larger;
 	text-align: center;
 }
 
